@@ -1,4 +1,4 @@
-# Submissionsi  
+# Submissions  
 
 ## First Submission
 Classifier : Random Forest 
